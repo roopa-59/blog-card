@@ -13,3 +13,19 @@ body{
   align-items: center;
 }
 
+.attribution
+{
+  position: absolute;
+  bottom: 0;
+}
+
+.card
+{
+  background-color:hsl(0, 0%, 100%);
+  border-radius: 16px;
+  max-width: 320px;
+  width: 90%;
+  box-shadow: 6px 6px 0 0 black;
+}
+
+
