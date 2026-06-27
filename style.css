@@ -1,3 +1,4 @@
+
 *
 {
   margin: 0;
@@ -40,8 +41,23 @@ body{
   display: inline-block; /*without the display inline block the properties of box model will not have any effect on inline elements.*/
   background-color: hsl(47,88%,63%);
   padding: 5px 8px;
-  margin-top: 8px;
+  margin-top: 16px;
   border-radius: 5px;
+}
+
+.date,h2,p,.author
+{
+  margin-top: 16px;
+}
+
+.author{
+  display: flex;
+  gap: 15px;
+}
+
+.author .avatar
+{
+  height: 30px;
 }
 
 
