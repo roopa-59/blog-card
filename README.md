@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Screenshot
 
-
+E:\Downloads\blog-card\screenshot.jpg
 
 
 ![](screenshot.jpg)
