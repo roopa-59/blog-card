@@ -52,12 +52,18 @@ body{
 
 .author{
   display: flex;
+  align-items: center;
   gap: 15px;
 }
 
 .author .avatar
 {
   height: 30px;
+  width: 30px;
+}
+
+.author p{
+  margin-top: 0px;
 }
 
 
