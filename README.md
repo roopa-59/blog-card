@@ -34,7 +34,8 @@ Users should be able to:
 
 ### Screenshot
 
-E:\Downloads\blog-card\screenshot.jpg
+<img width="759" height="757" alt="image" src="https://github.com/user-attachments/assets/671186f1-a94a-47db-97a0-a55f1e658e4b" />
+
 
 
 ![](screenshot.jpg)
