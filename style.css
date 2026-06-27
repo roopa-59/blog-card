@@ -12,6 +12,9 @@ body{
   min-height: 100vh;
   justify-content: center;
   align-items: center;
+  font-family: 'Figtree', sans-serif;
+  font-size: 16px;
+  font-style: normal;
 }
 
 .attribution
@@ -23,27 +26,28 @@ body{
 .card
 {
   background-color:hsl(0, 0%, 100%);
-  border-radius: 16px;
-  max-width: 320px;
-  width: 100%;
-  box-shadow: 6px 6px 0 0 black;
+  border-radius: 20px;
+  max-width: 384px;
+  width: 90%;
+  box-shadow: 8px 8px 0 0 black;
   padding: 16px;
 }
 
 .illus
 {
   width: 100%;
-  border-radius: 12px;
+  border-radius: 10px;
 }
 
 .tag
 {
   display: inline-block; /*without the display inline block the properties of box model will not have any effect on inline elements.*/
   background-color: hsl(47,88%,63%);
-  padding: 5px 8px;
+  padding: 6px 12px;
   margin-top: 16px;
-  border-radius: 5px;
+  border-radius: 4px;
 }
+
 
 .date,h2,p,.author
 {
@@ -66,4 +70,23 @@ body{
   margin-top: 0px;
 }
 
+.content
+{
+  color: hsl(0, 0%, 42%);
+  line-height: 1.5;
+}
 
+.author p, .tag
+{
+  font-weight: 800;
+}
+
+h2
+{
+  cursor: pointer;
+}
+
+h2:hover
+{
+   color:hsl(47,88%,63%);
+}
