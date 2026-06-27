@@ -34,15 +34,15 @@ Users should be able to:
 
 ### Screenshot
 
-> Add your screenshot here.
+
 
 ```md
-![Project Screenshot](./screenshot.png)
+(./screenshot.jpg)
 ```
 
 ### Links
 
-- **Solution URL:** https://www.frontendmentor.io/solutions/your-solution-link
+- **Solution URL:** https://github.com/roopa-59/blog-card
 - **Live Site URL:** https://roopa-59.github.io/blog-card/
 
 ---
