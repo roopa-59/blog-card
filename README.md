@@ -37,7 +37,7 @@ Users should be able to:
 
 
 ```md
-./screenshot.jpg
+![](./screenshot.jpg)
 ```
 
 ### Links
